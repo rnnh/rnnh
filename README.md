@@ -18,12 +18,16 @@
 
 A website documenting programs used in computational biology.
 
+-----
+
 ### [📊 Ronan's #TidyTuesday blog](https://tidytuesday.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f8211364-bd13-41ac-97b2-e9ed92e9c615/deploy-status)](https://app.netlify.com/sites/tidytuesday/deploys)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rnnh/TidyTuesday)
 
 A data science blog with reproducible results.
+
+-----
 
 ### [📊 covidgraphics](https://rnnh.shinyapps.io/covidgraphics/)
 
@@ -33,16 +37,22 @@ A data science blog with reproducible results.
 
 A web application visualising up-to-date COVID-19 data.
 
+-----
+
 ### [🎵 vaporiser](https://github.com/rnnh/vaporiser)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rnnh/vaporiser)
 ![GitHub](https://img.shields.io/github/license/rnnh/vaporiser)
 
-A program for remixing songs
+A program for remixing songs.
+
+-----
 
 ### [🧮 ProjectEuler](https://github.com/rnnh/ProjectEuler)
 
-A collection of benchmarked programs for solving maths problems
+A collection of benchmarked programs for solving maths problems.
+
+-----
 
 <!--
 **rnnh/rnnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
