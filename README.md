@@ -4,10 +4,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnh&hide=html,javascript,css&layout=compact&hide_border=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnh&hide=html,javascript,css&layout=compact&hide_border=true" />
 </a>
-<br>
-<a href='https://ko-fi.com/rnn_h' target='_blank'>
-  <img align="center" height='30' style='border:0px;height:30px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
 
 <!--
 **rnnh/rnnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
